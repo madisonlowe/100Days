@@ -47,7 +47,7 @@ Small summaries of what I worked on for the first eleven days of the _#100DaysOf
 **Week summary.** This week was my first week at the School of Code bootcamp, and I also completed days twelve through eighteen of the #100DaysOfCode challenge. Things we worked on this week included: programming and workflow concepts like algorithms, computational thinking, and agile vs. waterfall team set-ups; CSS basics, including selectors, classes and IDs, positioning, creating shapes and images; linking together stylesheets, HTML and JS files; using git and Github to collaborate with others and version control; JavaScript functions, for loops, while loops, if and else if statements and other basics; unweighted squat record (morning ritual).
 
 <details>
-<summary>Monday – Friday</summary>
+<summary>Monday – Sunday</summary>
 <br />
 
 **Monday (Day 12).** First day of class! Had some introductions to the curriculum, and basic tenets of agile team flow and computational thinking. I also met my pair programmer for the week, and we spent some time doing some CSS games and exercises to get used to pair programming. It was a fun and a very new experience compared to how I've usually coded before (hunched over a CSS stylesheet in my room, furiously scowling while I'm trying to get a website to stop looking quite so ugly). Another thing that felt new but also really energising was the fact that the bootcamp really is a community, both of current students, alumni, mentors, and lots of other folks. It was great to meet some of the larger team, and to get to know other people in the same boat as myself.
@@ -95,7 +95,7 @@ The process of taking multiple passes at things, and coming back to them again a
 **Week summary.** This week was my second week at the School of Code bootcamp, and I also completed days nineteen through twenty-five of the _#100DaysOfCode_ challenge. Things we worked on this week included: the DOM, and interacting with and manipulating the DOM; event listeners and more functions and loops in JavaScript; fetching data from APIs, navigating their data, and using them to build more interactive and responsive web content; introduction to the call stack; asynchronous coding, CSS flexboxes and display elements.
 
 <details>
-<summary>Monday – Friday</summary>
+<summary>Monday – Sunday</summary>
 <br />
 
 **Monday (Day 19).** Bank Holiday, so no SoC today! Carried on going over workshops from earlier, though, worked on some for loops and arrays for a bit to cement my learning, and I did a few levels on Codewars. Took it easier, though, today: did some gardening! Turnips are looking grand! Radishes are looking dire! Such is life!
@@ -141,5 +141,67 @@ I also had another chat with my mentor after class, and got some really good adv
 <br />
 
 **Takeaways.** Don't over-engineer! And it's great practice to plan well in the beginning, starting small and clean and functional, before returning to your original plans at later intervals in order to re-evaluate and stretch for newer, loftier goals. Sometimes, the best thing to do to when you're struggling with a coding problem is to put it down for a bit to let your brain turn over it in a new way later.
+
+<br />
+
+# Week Three
+
+**Week summary.** This week was my third week at the School of Code bootcamp, and I also completed days twenty-six through thirty-two of the _#100DaysOfCode_ challenge. Things we worked on this week included: UX/UI fundamentals; the design thought process; agile methodology and the agile manifesto, and integrating UX and agile working methods; user-centred design; user research with things like personas, stories, journey maps and other research exercises; Disney ideation; prototyping and low and high fidelity wireframing; accessibility in design and experience; deep and active listening, and overcoming listening challenges in teams; more advanced CSS.
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 26).** It’s UX/UI week!
+
+This morning was mostly a talk by Paaven Buddhdev, about ‘Do U(X) Believe in Magic?’ It was really cool and insightful to hear about his journey into his role, and the experience of working as a UX/UI designer and consultant. I also met my programming partner for the week, and we went through some presentations with Liz about agile working, the history of agile working, and different ways of working with agile thinking at their heart. To close the day, we did our feedback for last week, and we also played a game called cantunsee.space, which was meant to show us about the small details that can impact a piece of UI design, and how they all come together to make or break a whole.
+
+We didn't get any JavaScript or too much CSS done during hours today, so I did a few hours' work after class finished, and worked on fine-tuning the rock-paper-scissors game that I started editing last week.
+
+**Tuesday (Day 27).** Had a really great talk today from Adam Fairholm and Javaid Karim at Nester about how their UX/UI process has been for developing their investment app, and how to balance the needs of the user and customer against the needs of the business (considering the FCA, legal requirements, etc.)
+
+I also attended a great talk at Config about ‘Designing for Neurodiversity’ by Treyce Meredith, and how we can centre success and abundance in our design, and not just the compliance of access.
+
+Otherwise, we did some workshops on Disney ideation and user testing in order to refine user personas, user stories, and build and design a product in an agile way. Then, we did a CSS workshop where we learned how to use CSS variables and how to set toggle variables, for things like dark modes etc.
+
+Really enjoying UX/UI week! I want to make sure all the recent coding experience sticks in my mind though while we're focusing more on design thinking. So, this morning, I got up early and cleaned up some of the CSS and the JavaScript for the rock-paper-scissors game.
+
+**Wednesday (Day 28).** Today, we had a talk from Luke with Immediate Media - the people who did the website coding for the Radio Times and BBC Good Foods - and heard about his journey, as well as how he hires and works as the company’s lead UI developer! We also learned about user interfaces, wire-framing, and got to use some user interfacing tools to create a mock-up of our projects we were working on yesterday. We learned a bit more about keeping your CSS files tidy, and we did a little bit of reading in the docs.
+
+Outside of class, I also got my dark mode toggle on my rock-paper-scissors game to work, and so once I’ve coded some aesthetics onto the actual button itself, I’m going to leave that one alone for a bit and start building a new project!
+
+**Thursday (Day 29).** A long day! Had our usual mindset session with Joe, which, this week, was about learning how to listen deeply and actively in order to overcome moments of friction in a team.
+
+Then, we had a talk from an ex-bootcamper, Olivia Winteringham, who is now a UX/UI designer at Santander! Apparently, she doesn’t do that much coding at all in her job, but it’s very social, and there’s a lot of interaction with customers, users, stakeholders, other teams, things like that. It was really interesting to hear about her journey, and how the experience of working in UX/UI can still be creative, but maybe not in the way that you’d first think. More about creative problem-solving, than necessarily having to be great at illustration.
+
+Then, we learned a bit about ordering CSS and using flexbox some more with Helena. The coaches alluded to media queries, but didn’t go into them. I’m already a bit familiar, but more experience would be nice, so maybe I’ll look into it at the weekend for a refresher.
+
+And, finally, in the afternoon me and my pair programmer this week got together with another team to build a user journey map for an imaginary app - a competitor to Expedia and Kayak - and then presented what we’d worked on and learned back to one of the coding coaches and a group of about thirty other people.
+
+Went well, and I think our team came off really polished! Glad I could help us present in a clean, collated way. I’d like to get quicker at talking, but I think since I finished my MSc, my presentation, planning and teamwork skills have definitely levelled up, and presenting in front of people doesn't generally feel daunting anymore. I'm sure that will change when we do the big presentations at the end of the course! But I'm hoping that getting all this practice in now, and sticking to my process – making sure I've got a short, solid plan, and I know my key points – puts me in good stead.
+
+But yeah! Hackathon tomorrow! It’s going to be based around making a fake landing page for a website that me and and my partner ideated today. Looking forward to it!
+
+**Friday (Day 30).** Hackathon Friday once again!
+
+A very UX/UI centred day today. It was our job to take some ideas we had for a landing page, and then put them through the design thinking wringer. The emphasis was less on getting to complete the code, and more about user research, and using that research to centre our approach to the project at hand. It was very interesting, and I loved the combination of methodical approach with creative problem-solving!
+
+Ultimately, our team didn’t get into the CSS and HTML, but it wasn't the focus of the task, and besides, we got very close! We got to planning out our high fidelity wireframes and looking at palettes and mood associations with typography, and I think we really did well.
+
+After class, I had my usual Friday chat with my mentor. Another really interesting talk that I really enjoyed. We talked about the ecological impact of coding and software development, and how companies do - or do not - do their part to try and mitigate it, as well as levels of personal responsibility for coding in a green way. We also talked about his preference for back-end work, and about the mechanics of how game code is written, and how the IDE differs in game programming, compared to regular IDEs.
+
+This weekend’s recap task is to begin planning a portfolio, so that’s what I’m going to do today! And tomorrow too probably, but I want to at least get through a bit of work this evening.
+
+Really loved the week. Apprehensive but excited to try server-side programming next week. Took a long time to install nvm, but hopefully that was the first and last nightmare on this auspicious (or not) day!
+
+**Saturday (Day 31).** Spent all day on my planning and wireframes for the portfolio website! I think I probably could've put less effort into it, for the sake of passing the task, but I really want to finish this project and have it be version 1.0 of my portfolio for the end of the course. So, I put the hours in! Tragically, I missed seeing out historic performance in the Eurovision live, and I kind of do regret doing so much work today. There's a big family thing on Sunday, though, so I guess it's like Liz always says: trade-offs for everything. You can't fit it all in! But you can do your best!
+
+**Sunday (Day 32).** Finished the high-fidelity wireframes for the first draft of my portfolio. I'm going to put them in a repo on my GitHub by themselves once I've coded a first-draft of the CSS, HTML and JS, but here's a sneak peek. I'm going to do a little bit more work on another JavaScript project – the cat treat randomiser my sister asked me to make – and then I'm going to relax for the evening. Back-end work starts tomorrow, got to make sure I'm rested!
+
+</details>
+
+<br />
+
+**Takeaways.** I wrote down so many quotes from our guest speakers this week, and from the Config conference, but a few are really sticking with me, so I want to note them here to centre them in my thoughts and process. First, I loved how Paavan connected UX and magic, and how he emphasised that UX is about storytelling, attention, and wonder. Treyce Meredith did a really good talk about designing for neurodiversity at the Figma conference too, and he emphasised how features should be abundant, how we should make sure we are forgiving in the interface, make sure the tools we make are nurturing in order to encourage creativity, and how we should go beyond accessibility compliance to think about accessibility success. It was really great to be able to contribute to several teams this week, and I'm looking forward to more fruitful, collaborative work in the future.
 
 <br />
