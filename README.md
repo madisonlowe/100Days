@@ -205,3 +205,299 @@ Really loved the week. Apprehensive but excited to try server-side programming n
 **Takeaways.** I wrote down so many quotes from our guest speakers this week, and from the Config conference, but a few are really sticking with me, so I want to note them here to centre them in my thoughts and process. First, I loved how Paavan connected UX and magic, and how he emphasised that UX is about storytelling, attention, and wonder. Treyce Meredith did a really good talk about designing for neurodiversity at the Figma conference too, and he emphasised how features should be abundant, how we should make sure we are forgiving in the interface, make sure the tools we make are nurturing in order to encourage creativity, and how we should go beyond accessibility compliance to think about accessibility success. It was really great to be able to contribute to several teams this week, and I'm looking forward to more fruitful, collaborative work in the future.
 
 <br />
+
+# Week Four
+
+**Week summary.** This week was my fourth week at the School of Code bootcamp, and I also completed days thirty-three through thirty-nine of the _#100DaysOfCode_ challenge. Things we worked on this week included: learning about node, npm, nvm and how they interact; vertical and horizontal scaling in servers; how servers work asynchronously; CommonJS and ES6 import and export syntax and methods; how to modularise server code and separate concerns; building functional routers and models; building CRUD functions; building APIs RESTfully; using Postman to test servers; built a couple of API servers!
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 33).** First ever day working with back-end tech!
+
+Met my new weekly programming partner, and we got to know each other and gave each other mini presentations of what we’d been working on over the weekend. We had a recap task to do some research and create some wireframes and maybe a little bit of code for a personal portfolio and website. It was really cool to see how different concerns about the way we wanted to present ourselves, and who we were presenting to, changed how we approached the task in drastic ways. I think it’s also just fun to see how people see themselves, whether through their colour schemes or the other design choices they make.
+
+Then, we spent a lot of the day going through demos and introductory talks and question-answer sessions about node, nvm, npm and nodist etc. We also learned a little bit more about the specifics of how servers work. Then, in the latter half of the day, we got to get some practice in by doing a workshop based on the chalk npm.
+
+It was really fun! We got through the whole workshop pretty quickly, so we did some experimentation with other packages and we went through the full docs instead of just what we needed for the workshop. I’m sure it’s going to get much harder from now on, so I don’t want to jinx myself! But for a first introduction to back-end programming, I enjoyed today.
+
+**Tuesday (Day 34).** We learned some more about node.js today, and then about how to use express to spin up servers, as well as about using nodemon to make it so that we don’t have to constantly kill and reboot the server every time we make file changes. We also worked through some workshops, where we created some .js files of information, imported and exported it into different .js files, and then spun up a server and made calls to it in order to access the information files we’d created. We learned about when to use commonjs and when to use ES6 in order to make these import and export requests too. We’re practicing this so that we can build up to creating our own API on Friday for the hackathon, I think!
+
+I was really intimidated by the back-end before we started this week, but so far, it’s going pretty smoothly. I don’t think we’re doing anything too complex yet, comparatively, so maybe I won’t feel the same tomorrow! But I’m trying to be open to failure and experimentation with new things, and it’s really fun learning about the different elements of back-end programming. They can be really powerful, and I’m excited to learn more about them.
+
+I got called on at the end of the day for the end-of-day reflections, and I said that the thing I took away from today was the value of not panicking. Which I can sometimes be hypocritical about - we all panic, me often, and about the tiniest things! But it’s okay to be bad at something, or not to get it the first couple of times. It’s about being open to learning, change, and being wrong. And when you’re panicking, you’ll never learn anything, you’ll just close up out of fear. Anyway, had a good day, did a bit of extra experimentation after class on using the servers, and pumped for tomorrow.
+
+**Wednesday (Day 35).** We covered a lot of ground today! We learned about how to modularise our server code and use route handlers for server traffic, and how to send and receive information along these paths. We also learned how to respond to queries and non-get requests, learned a little bit about RESTful APIs and data organisation, and a little bit about other kinds of data requests, We’ll be workshopping those more tomorrow!
+
+The theory is making sense to me, it’s just a lot of moving parts to piece together and remember all at once. A bit fiddly and lots of syntax! But enjoying it a lot, actually. I’m really excited for this week’s hackathon, and to use what we’ve learned in a side project when it comes to it.
+
+**Thursday (Day 36).** Today, in order, we covered: Thursday mindset session with Joe about confronting your inner critic and turning them into your inner champion; workshop learning about what middleware is, the functions it provides in a server, and how to add one to our code; workshop on POST requests and how to handle those alongside our routers; and finally, another group research task where we had an hour and a half to research a topic then present it back to a group of thirty! My group did a short presentation on HTTP status codes and how they relate to our current coding focuses, and how you can add them into your code with something like `res.statusCode` which returns the HTTP status code of your response.
+
+Not too much – compared to the last three days, at least – to take in code-wise, but the presentation and the mindset session both provided a lot of learning and information, and took a lot out of me. Today was the first time this week I felt a little bit more unsure in one of the code workshops, but I think that’s down to just having more syntax to remember and keep straight rather than discomfort with the logic.
+
+Tomorrow’s the hackathon and my enablement meeting. Excited to build something with what we’ve been learning, and my partner this week is really good with the code and easy to get on with. So, should be a fun project!
+
+**Friday (Day 37).** Hackathon Friday!
+
+Going to keep it short because I feel a bit under the weather, but we combined everything we knew today to build a RESTful API that fulfilled all the CRUD criteria! Me and my partner did really well and got really far into the bonus tasks, and learned a lot of new things, and I’m really proud of us! The practice I’ve been putting in through the week of trying to build an API in parts, from scratch, after class, has really helped. It was a lot of effort, and I’m kind of worn out now, but it went pretty well!
+
+No mentor meeting today, but had my enablement coach meeting today, and that was really good! It was a great chance to review the first quarter of the course, look at places where I could improve or keep on pushing, get advice on areas I might need support in, and take stock of things that have been strengths so I can make sure I prioritise those habits in my workflow.
+
+Got cracking on the recap task tonight because I want some time to relax over the weekend. Really enjoyed back-end a lot more than I thought I would, and excited to learn some more next week.
+
+**Saturday (Day 38).** Added some middleware and more annotations to the API I'm building for this week's middleware task, and watched a few talks and read some writing by Kyle Simpson, who's going to be doing a talk at SoC on Monday afternoon. Otherwise, took it easy, as feeling a bit under the weather!
+
+**Sunday (Day 39).** Tinkered with a few side projects, organised my notes and went back over code from last week, and also getting started on some of the exercises that Joe talked about in this week's mindset session to help promote mental resilience and strengthen your inner champion. Maybe not the kind of heavy code that this challenge calls for in its most strict format! However, I think it's important to keep in mind that a big part of learning something new or actively seeking change isn't just doing the thing itself. It's also about reflecting back on what you've done, and making conscious choices about where you'll be going next in your journey.
+
+And, less philosophically, sometimes, you're just tired or sick and need a break! Been thinking about what Joe said in our mindset session this week. He talked about how there are three kinds of inner critic that he thinks are really common with most people: the perfectionist, the people-pleaser, and the pusher. People whose inner critics are more pushers tend to overwork themselves because they hate not feeling productive, and they find it hard to relax because there's always another job to do or something else they could be pushing themselves to achieve. There are positives to being diligent about progress in this way, but the negative impacts if you don't have any balance are easy to imagine. I definitely saw parts of myself in what he was saying, so today, I've set a deadline for when I'm going to stop working this afternoon, and me and a friend are going to watch a very bad cartoon show and one of the cringier live action Disney remakes to close the evening.
+
+</details>
+
+<br />
+
+**Takeaways.** First week working with server-side code! I think what was important this week is that even though I was very apprehensive about starting work on back-end code, I knew that my mentor and a lot of other developers really enjoy working with it, and so I decided to approach the work with conscious openness. No, there's no way anyone can fully understand a whole new field after a week, and have no mistakes while working with the code! But they can learn a lot about it, and work out what they don't know, so that they can carry on learning in the future. And they can also have fun! Which I absolutely have. Excited to carry on building on what we've learned on Monday.
+
+<br />
+
+# Week Five - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 40).**
+
+**Tuesday (Day 41).**
+
+**Wednesday (Day 42).**
+
+**Thursday (Day 43).**
+
+**Friday (Day 44).**
+
+**Saturday (Day 45).**
+
+**Sunday (Day 46).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Six - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 47).**
+
+**Tuesday (Day 48).**
+
+**Wednesday (Day 49).**
+
+**Thursday (Day 50).**
+
+**Friday (Day 51).**
+
+**Saturday (Day 52).**
+
+**Sunday (Day 53).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Seven - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 54).**
+
+**Tuesday (Day 55).**
+
+**Wednesday (Day 56).**
+
+**Thursday (Day 57).**
+
+**Friday (Day 58).**
+
+**Saturday (Day 59).**
+
+**Sunday (Day 60).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Eight - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 61).**
+
+**Tuesday (Day 62).**
+
+**Wednesday (Day 63).**
+
+**Thursday (Day 64).**
+
+**Friday (Day 65).**
+
+**Saturday (Day 66).**
+
+**Sunday (Day 67).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Nine - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 68).**
+
+**Tuesday (Day 69).**
+
+**Wednesday (Day 70).**
+
+**Thursday (Day 71).**
+
+**Friday (Day 72).**
+
+**Saturday (Day 73).**
+
+**Sunday (Day 74).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Ten - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 75).**
+
+**Tuesday (Day 76).**
+
+**Wednesday (Day 77).**
+
+**Thursday (Day 78).**
+
+**Friday (Day 79).**
+
+**Saturday (Day 80).**
+
+**Sunday (Day 81).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Eleven - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 82).**
+
+**Tuesday (Day 83).**
+
+**Wednesday (Day 84).**
+
+**Thursday (Day 85).**
+
+**Friday (Day 86).**
+
+**Saturday (Day 87).**
+
+**Sunday (Day 88).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+<br />
+
+# Week Twelve - Upcoming!
+
+**Week summary.**
+
+<details>
+<summary>Monday – Sunday</summary>
+<br />
+
+**Monday (Day 89).**
+
+**Tuesday (Day 90).**
+
+**Wednesday (Day 91).**
+
+**Thursday (Day 92).**
+
+**Friday (Day 93).**
+
+**Saturday (Day 94).**
+
+**Sunday (Day 95).**
+
+</details>
+
+<br />
+
+**Takeaways.**
+
+# Weeks Thirteen – Seventeen - Upcoming!
+
+**Week(s) summary.** Final group project segment!
