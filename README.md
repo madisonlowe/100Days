@@ -260,33 +260,49 @@ And, less philosophically, sometimes, you're just tired or sick and need a break
 
 <br />
 
-# Week Five - Upcoming!
+# Week Five
 
-**Week summary.**
+**Week summary.** This week was my fifth week at the School of Code bootcamp, and I also completed days forty through forty-six of the _#100DaysOfCode_ challenge. Things we worked on this week included: learning about the history and structure of databases; what SQL and postgreSQL are and how to use them in order to query databases; a variety of SQL statements, queries, and operations; using Heroku to host a cloud database, and then, how to combine this database with everything else we've learned the past five weeks to make a live server and RESTful API!
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 40).**
+**Monday (Day 40).** Met my new programming partner for the week, and they’re also from Yorkshire, which was very exciting (not many of us kicking about on the course). Then, we got started with an introduction to the history of databases and their place in the ecosystem, as well as the different constructions of database you can have, and ways of accessing them. We’re going to be using relational databases during the bootcamp, and we’re going to be interacting with them using postgreSQL, which we started learning a bit of the logic and syntax of today!
 
-**Tuesday (Day 41).**
+A big part of the day today, though, was a talk and question and answer session that we had with Kyle Simpson, author of the ‘You Don’t Know JavaScript’ series of books. We got a sneak preview of a new talk he’s going to be debuting at a conference in Greece in about a week, called ‘Confessions from an Imposter’. He covered a lot of ground, but one thing that stuck with me was when he talked to us about how we often see imposters as a negative thing, but then, consider the etymology of the word: an imposter is an empiric, or someone who focuses on evidence and practical experience. If we learn through experimentation and doing, then isn’t that a positive? He also talked a lot about accessibility in tech, and the personal responsibility we all hold to build software and contribute to the ecosystem in a people-oriented way. His closing advice was to remember that “everything you do, first and foremost, is a human activity you are doing with other humans. Optionally, we communicate through technology, but we are not serving the machines. The machines serve us. What you can do can so far surpass what the computer can do. Information is a byproduct; the relationship is what matters.” It was a really great talk, and I really took a lot away from it.
 
-**Wednesday (Day 42).**
+I also had another great chat with my mentor about what we’ve both been up to, how he approaches the trajectory of his career, and ways of thinking about things like long-term programming goals and trying to get better at switching off. This morning before class, too, I finally figured out a little irritation I was having with a JS array in my portfolio code, and added to my contact page! So, all in all, a good day!
 
-**Thursday (Day 43).**
+**Tuesday (Day 41).** Learned how to format a few more statements, create tables, and use joins in postgreSQL today, and we did a lot of different workshops and puzzles and things to practice the logic and syntax of those! Nothing terribly exciting to say about it, but sometimes learning is just about getting in some good, solid practice on things. I’m going to carry on practicing and reading the postgreSQL docs - the length of which is very, very funny to me - and then I’m going to do a little code on some side projects, and call it a day.
 
-**Friday (Day 44).**
+**Wednesday (Day 42).** Today, we learned how to combine postgreSQL and Heroku together to host a cloud-based database, which we then hooked up to our servers we’ve been working on. We then did some more modularising, and started learning a little bit about parametising data and sanitising it so that we can make our code secure. We also had a talk from Ricky at OALO Security about his journey into cybersecurity, how it works, and his experiences on the job.
 
-**Saturday (Day 45).**
+The code itself, logically and syntactically, wasn’t totally unreachable, but definitely there were a lot of moving parts to keep straight today. I know a lot of people found today really challenging, and I think the energy and optimism definitely flagged for people at different parts of the day. All in all, I think me and my pair programmer did really well with it. We didn’t get through every workshop task, but we got a good chunk done, and we coded in a few extra features regarding correct routing, importing and exporting in a few other files that helped our project reach best practices. Those were the concrete things we did, and while I think I’m following it and absorbing it fairly well, it was definitely a lot today. Despite a bit of a grind, though, I’m still having a lot of fun with it all.
 
-**Sunday (Day 46).**
+Since I finished my MSc last year, I haven’t read or written really, which is strange for me. But I felt burnt out on it, among other things, so I put it aside for a while. Getting into programming has been surprisingly energising, though, and recently I've been going back to some things I'd otherwise lost my hold on. Today, I went back through some of my old poetry books. In ‘Go to the Limits of Your Longing’, Rainer Maria Rilke writes:
+
+> You, sent out beyond your recall, go to the limits of your longing. Embody me. Flare up like a flame and make big shadows I can move in. Let everything happen to you: beauty and terror. Just keep going. No feeling is final. Don’t let yourself lose me. Nearby is the country they call life. You will know it by its seriousness. Give me your hand.
+
+Today was a hard day, but soon it will be over. The birds are singing their goodnights outside my window, the sky is dusky blue and quieting pink, and nearby is the country they call life. The sun rises again tomorrow! I am reaching out!
+
+**Thursday (Day 43).** Worked on the same workshops from yesterday, just a little slower, and with some recaps over the harder bits. Also, had a really interesting, affirming talk from Will Peachey, and another mindset session with Joe about using the GROW model to confront difficulties on your journey. A tiring day, and not much new to report, since it was more about developing on what we've already covered, but just need to get better at. Did a lot of work in class and a lot of hours after, though, working on the code and getting different bits and bobs to work or become clearer. Some days are sprints, some days are marathons!
+
+**Friday (Day 44).** Hackathon Friday!
+
+This week, our job was to build a RESTful API server using node.js, express, postgres and a load of other big and little technologies. And we did really well! We got stuck right at the end trying to fix our routers up, but our plan and documentation was really solid, and we largely made good, consistent progress. We coded with good readability, and when we did hit errors, we tested to narrow down exactly what part of our routers were being problematic, so I'm still proud of what we managed on a difficult week. With a bit more time, I think we'd have gotten it down.
+
+Also had a great mentor meeting! My mentor's on a holiday-and-hackathon trip right now, which sounds very cool and very fun, and is a concept I'm absolutely going to steal so that I can work on bullying my friend group into doing one too. When I've eventually got time to be going on a holiday-hackathon (Holithon? Hackiday?), that is, and also I guess when any of them learn how to code. Small setback. But yeah! Had a really helpful talk too about how sexism and ableism manifest in the industry, some of the kinds of things you can do to advocate for yourself, and other bits and bobs that I wanted to get his opinion on.
+
+**Saturday (Day 45).** Got up early and worked on the recap task for a couple of hours. We had to start from scratch and build the exact same thing as yesterday, which felt a little daunting, but it went well, and! Excitingly! I figured out my router problem from yesterday! I wasn't quite getting my async/await pairs on the routers themselves right, and fixing those fixed the problem we had been having of our payload showing up in the console but not on the webpage. Took a break after I figured that out to do some gardening and life admin, but going to carry on doing some programming for fun later!
+
+**Sunday (Day 46).** Family dinner at dad's today, so not too much to report back on. Took my fix for the routers from the recap task, and implemented it on the routers from the hackathon, and everything looks much happier and less shouty in the console. Did a little bit of work on my website – had a study swap session with a friend yesterday, where they gave me feedback on some code and I gave them feedback on their dissertation, so was keeping that in mind – but otherwise, a chill day!
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** I think what consistently struck me this week is how fun I'm finding programming, and the trial and error process. We learned a lot of new technical things this week that I'm excited to move forward with, too. Though, it's the conversations that I've had with people that have been especially stand-out for me. My pair programmer had a really pragmatic attitude toward building and the learning process, which was really grounding to work alongside. I especially appreciated my mentor meetings this week too. They're always great, but it really hit home this week the kind of difference that attitude and perspective can make. My mentor's sense of calmness, malleability, self-advocacy and enthusiasm are always re-energising, but were particularly helpful at this juncture, and I'm going to try and mindfully, consciously centre a similar energy more myself.
 
 <br />
 
