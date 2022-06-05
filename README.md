@@ -306,33 +306,35 @@ Also had a great mentor meeting! My mentor's on a holiday-and-hackathon trip rig
 
 <br />
 
-# Week Six - Upcoming!
+# Week Six
 
-**Week summary.**
+**Week summary.** This week was my sixth week at the School of Code bootcamp, and I also completed days forty-seven through fifty-three of the _#100DaysOfCode_ challenge. Things we worked on this week included: using Jest, Supertest and Cypress to perform unit tests, automated server testing, and E2E testing on a variety of different programming projects; how to code using TDD, and when this is and isn't a useful model to follow during development; why we test, what to test, and concepts like code coverage and what a well-tested or robust project might look like.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 47).**
+**Monday (Day 47).** This week, our focus is on testing software, and different ways to approach building testing methods, principles and best practices into our work. We had an introductory talk from Nadeem Shabir at Talis today about software testing, as well as some really solid life advice. Also, we learned a little about the uses and purpose of software testing, and got some practice in with our first testing framework, Jest.
 
-**Tuesday (Day 48).**
+New things are always a little hard to get to grips with at first, but the workshops went pretty well! To be transparent, though, this is the first day on the course where my emotions have felt primarily rooted in anxiety. Nebulously so, and not connected to any worries about the programming as much as just tiredness catching up with me, I think. But still, the feeling's present. So! Where I'd normally do a lot of extra work after class ends and push myself to carry on going for a couple of hours, I think I need a break, so I'm going to try and take one this week. Shorter log entries than usual, then, but it is what it is. Catch you soon!
 
-**Wednesday (Day 49).**
+**Tuesday (Day 48).** Did some workshopping today in Jest, following TDD principles. Also, had a really great introduction to Cypress – a technology for E2E testing – from Jordan and Robert on the Cypress developer experience team! Still feeling a bit shaky, but better than yesterday. Just trying to get some code admin done and get through the week. Looking forward to getting a bit of free time to work on some side projects over the long weekend, though, and the chats I've got scheduled with my enablement coach and my mentor towards the end of the week.
 
-**Thursday (Day 50).**
+**Wednesday (Day 49).** Tested with Cypress properly for the first time, and used supertest to test an API server. My meeting with my enablement coach was pushed to next week, but that can't be helped. Otherwise, though, this is the last day of the working week – it's the long bank holiday weekend for the Platinum Jubilee – and in retrospect, coding has gone really well this week! My pair programmer has been very sharp and capable, and we've been able to get some really good work done on all our workshops. We've been given a longer recap task than usual this week, to get some extra practice in considering we're missing two taught days, but it all looks pretty doable.
 
-**Friday (Day 51).**
+**Thursday (Day 50).** Worked on some workshops from the week through the day, and got some programming done for the recap task. Testing is a little dry, but necessary, and thankfully a pretty accessible facet of programming compared to some concepts which are harder to grasp or execute. I also had a meeting with my mentor at the end of the day. Even on weeks when I don't necessarily have anything technical to ask about, I always find mentor meetings to be a part of my day that really helps re-energise and re-centre me, and puts a lot of things into perspective. Keeping in mind Nadeem's advice on Monday about not going so above and beyond that you exhaust yourself, and my mentor's advice that sometimes you have to literally just do anything other than programming for a bit, and that's what I'm going to do.
 
-**Saturday (Day 52).**
+**Friday (Day 51).** Didn’t do much today! I tinkered with a few configurations for the automated tests in my workshops, and also started reading some articles about React. Spent most of the day out with my mum, shopping for yarn and cooking. Feeling better rested and ready to get back to it at my usual level!
 
-**Sunday (Day 53).**
+**Saturday (Day 52).** Got a lot of work in today. Finished up my testing workshops as much as I am happy with – they're not perfect, but they're functional and I'm pleased with them, which is enough – and then read into some more resources on React, and got a lot of work done on some side projects and non-SoC programming. Took a look at jQuery for the first time, but it wasn't quite working out as I wanted it to, so I'm going to come back for it for the project I was using it on another time. Tomorrow, I'm going to do a little bit more programming and my usual coding admin (sorting out this log and tidying up notes etc.) in the morning, and then I'm going to close my laptop and do other stuff!
+
+**Sunday (Day 53).** Tinkered on my portfolio side project some more, and doing my code admin, and updating this log. Reflecting back on this week, I think having the tiredness hit me now was well-timed for a longer weekend, but also has made me a bit more conscious of some of my working flaws. In general, I push myself to get a lot of work done, and to keep up a certain pace and level of quality that is absolutely achievable in moderation, but maybe not twelve hours a day, every day. Taking a slower approach this week has given me a chance to regroup, and while I'm ready to get back to it on Monday, I think maybe I'm going to be more conscious about having extended non-programming breaks on my weekends going forward.
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** I was talking to my mentor about the difficulty of pulling yourself away from code, whether it's because you're having fun or it's not finished, and he talked about how sometimes, even if you get to the end of the day and there's a big problem you still haven't figured out, you just have to tell yourself that your workday finishes at five, turn off the computer, and go and do something else. Maybe 'take it easier' isn't the most on-brand message to commit, but if you're reading this and wondering to yourself whether you should take a day off? A couple hours of rest aren't going to end the world. You've made it this far already, and you're going to carry on being just fine, even if you pick up what you're doing on Monday instead.
 
 <br />
 
