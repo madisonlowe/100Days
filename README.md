@@ -338,33 +338,49 @@ New things are always a little hard to get to grips with at first, but the works
 
 <br />
 
-# Week Seven - Upcoming!
+# Week Seven
 
-**Week summary.**
+**Week summary.** This week was my seventh week at the School of Code bootcamp, and I also completed days fifty-four through sixty of the _#100DaysOfCode_ challenge. Things we worked on this week included: introduction to React; converting vanilla JS into React; working with CRA, JSX and Babel; abstracting and structuring files so as to separate concerns in React and with React components; how useState and hooks more generally work and operate; working with props.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 54).**
+**Monday (Day 54).** First day of React!
 
-**Tuesday (Day 55).**
+Feeling a lot better than last week, and ready to get back to it. In the morning, we had a great talk and question and answer session from an ex-bootcamper, Piper, who just started their second tech job with Bamboo. It was really interesting to hear about how they approached the bootcamp and post-bootcamp spaces, and I think getting the perspective of someone who – by their own confession – struggled on the bootcamp was really useful. I really appreciated what they told us about resting enough and having fun on the bootcamp, and I hope we hear back from them again soon!
 
-**Wednesday (Day 56).**
+Otherwise, in the afternoon, me and my new weekly pair programmer got started on some workshops making React components and learning about React syntax and architecture. I’m excited to see the new things it can accomplish. Speeding up!
 
-**Thursday (Day 57).**
+**Tuesday (Day 55).** Busy day today!
 
-**Friday (Day 58).**
+We were learning a little more about React and worked through some workshops on components, but we also got into using JSX and Babel too: we started yesterday using the most vanilla, manual version of React, and the idea is to use the bare bones and eventually add on layers of abstraction, so that we can fully understand what is happening functionally under the hood. We also started using Create React App to make a basic React application, which we’re going to be continuing tomorrow. We also got a little bit of work in understanding and using props!
 
-**Saturday (Day 59).**
+We also had a great talk from a SoC mentor and engineer from BT, Nick Truby, about how he uses React in his work, and his journey from bootcamper to mid-level engineer. He had a great energy, and he’s going to be dropping in on code club tomorrow to answer questions and show us some more stuff in React with Hamza.
 
-**Sunday (Day 60).**
+I also had my rescheduled enablement meeting today. It's always good to get the chance to reflect on your growth, and to see where you're heading next. Anyway, got lots to do, so I’m going to dash! Catch up later!
+
+**Wednesday (Day 56).** Nearly midnight, exhausted! Learned a lot today about useState, hooks generally, revision on props, and compartmentalising our code into reusable components. We also had a talk from a Birmingham company called adaptable about React, and did a load of workshops. Just spent a few hours trying to figure one out. Finally got it! Very tired though, so turning in.
+
+**Thursday (Day 57).** Really long day with a lot of difficult code. Spent most of the evening going over the day's workshops and got them working, but now I'm very tired, so will check in later!
+
+**Friday (Day 58).** Hackathon Friday!
+
+Mixed bag today outcome-wise, but I think technically-wise, presentation and attitude-wise, me and my pair programmer learned a lot and grew a lot. The challenge today was to build a React app from scratch, and specifically, a to-do list. We had to be able to input new items into the list array, which would be mapped onto the screen, and the entries to which should be editable and deletable. We got our file architecture and most of our functions working perfectly, and only stumbled when it got to using functions as props, and passing the outcomes of certain functions to other components so as to set state in different bits of the app.
+
+The positive is that we knew where we were getting stuck, and what to look for resources on to figure out the answer! The unfortunate part is that we weren't able to make as much progress as we wanted in the second half of the day. I think what was a really fruitful exercise, though, was being able to reflect and present to a group of about thirty other bootcampers on the experience. When you're stuck or making slow progress against a tight deadline, it's easy to catastrophise and lose your focus, I think. It's also not the easiest thing to admit when something was hard or didn't turn out as you ideally would've liked outloud, especially in a group presentation! But me and my partner put together a concise retrospective and our presentation went really well, and I'm super proud of what we managed, and I know it'll just be a matter of practice and time before we're up to speed. No one learned React in four days flat, after all!
+
+**Saturday (Day 59).** Been working on the recap tasks a lot of the day. Battling to get a hang of some useState stuff and passing between the component tree, but I've got further than I got yesterday, which is enough for now! Going to take some time to rest and step away from it, to let that diffuse learning set in.
+
+**Sunday (Day 60).** Not re-addressed the hackathon yet – which I want to go back and do – but finished off the recap tasks today, and managed to get a working version of what stumped us on Friday! It's not very tidy at all, and it still needs a lot of work, but I feel like I've learned a lot over the weekend. Worn out, though, and tragically I have been stricken by a stomach bug, so going to take the rest of the day easier.
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** Technically, we've learned so much this week, though to be honest, my brain's a bit too fried to reflect on it all at once! I think a really important and productive part of the week was our presentation, though: being able to address roadblocks and difficulties, and present those and ways to move on from them to a group of people in a semi-professional context, is a skill I'm glad we got some practice in building. I think I'm still learning the lesson from last week too, that sometimes you really do just need a break and to take things slower. I told my mentor on Friday that I was going to work on my projects until they were functional and done, but that just wasn't a useful approach after a long day on Friday, and even on Saturday and Sunday. I think a combination of having some enforced breaks from code over the weekend, and being able to take things a little bit slower through independent study, have helped me get a firmer grasp on the week's material.
+
+There was also a great workshop this week – not sure if I mentioned it in an entry – with Trenton Moss from Team Sterka, about working in teams and learning more about your communication style, and how to work with people who communicate in different ways too. I scored near the middle of the quadrant as having a director-type communication style. On first reaction, I didn't really feel like it was accurate, and then hilariously had my opinion proved wrong consistently through the rest of the week when my need to work slower to absorb the material began to frustrate me. Which! I think will be something I'll need to keep in mind as we carry on through this journey. Your weaknesses and your strengths are the exact same characteristics: it's how they manifest and how you learn to use and manage them that makes the difference in the moment.
 
 <br />
 
