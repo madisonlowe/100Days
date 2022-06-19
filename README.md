@@ -384,33 +384,41 @@ There was also a great workshop this week – not sure if I mentioned it in an e
 
 <br />
 
-# Week Eight - Upcoming!
+# Week Eight
 
-**Week summary.**
+**Week summary.** This week was my eigth week at the School of Code bootcamp, and I also completed days sixty-one through sixty-seven of the _#100DaysOfCode_ challenge. Things we worked on this week included: more work with React and state through useReducer and learning about finite state machines; learning about useEffect and how (and how not to) use it; using React Testing Library; teamwork and communication mindset; Git branching; research task on Agile and Scrum; practice building and rebuilding an app with increasing layers of abstraction; hackathon where we put every part of project planning and management into place.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 61).**
+**Monday (Day 61).** More React this week! We went over the beta docs to learn a little about the idea of pure and impure functions, and then we learned about useEffect, and hilariously, how we really should avoid using it at all costs. Low energy in the bootcamp today, but hopefully a second week to practice React will make things sink in a bit easier. Plus side is useEffect came a bit easier than last week’s code, and I think I’m slowly getting the hang of what’s going on. Chris also returned on short notice to tutor us today, since Liz was sick! So that was fun.
 
-**Tuesday (Day 62).**
+**Tuesday (Day 62).** We were focusing on useReducer today, which we covered theoretically by looking into finite state machines, before moving onto using them practically inside of React. Getting state to work is still kind of hard to handle, but with a lot of help from coaches and other bootcampers, we got there in the end! Going to do some extra work on it tonight, and then I've got a friend's dissertation I promised I'd start proofing. Eyes are very tired!
 
-**Wednesday (Day 63).**
+**Wednesday (Day 63).** Today we learned how to use React Testing Library to test in React, with more of a focus on unit tests, and we revised some of the main tenets of testing in general as well as going through a good couple of testing workshops and exercises. We also had a really great company talk from Mark and Haley at Experian. Their company culture and the learning environment sounds really nurturing and like it would be a great place to grow, and I hope we hear more from them or see them again in the future.
 
-**Thursday (Day 64).**
+**Thursday (Day 64).** Today we had a mindset session with Joe about team dynamics in preparation for project week next week. We also learned a little bit about how git branching and pull requests work, and we got some practice in with a workshop. We also had a great talk from Nadeem and Camille at Talis about how to design and architect APIs – always enjoy hearing from the team at Talis, everyone's got a really refreshing outlook and energy - and then we did a research task in the afternoon around Agile.
 
-**Friday (Day 65).**
+I was in a team with my pair programmer for the week and the pair who 'live next door' (in the Zoom room one number up), and our focus was on giving a miniature presentation about Scrum as a framework! Usually we present at four o'clock in breakout rooms to about thirty other bootcampers. This week, though, we were asked to record our presentation and upload it, so that other bootcampers could use it as a resource to come back to later in their own time. It was a little nerve-wracking recording ourselves, I think! Even though it's the same as presenting, really, there's something about having a recording in perpetuity that just feels a little bit more eek! At least considering it's only the second time we've had to record ourselves for anything for SoC. The recording went very well, though, and watching it back, I think our presentation was really clean and kept perfectly to time. I was really proud of the team and the work we got done in such a short amount of time, and the exercise really gave me a confidence and energy boost.
 
-**Saturday (Day 66).**
+In the evening, I spent a good chunk of time re-building last week's hackathon over and over, adding layers of complexity each time to try and get a better understanding of how different bits of React work, while also tuning into the CodeLand 2022 conference. It's a conference geared toward inclusivity in tech and early-career programmers and students, and there was a lot of really great learning material there.
 
-**Sunday (Day 67).**
+**Friday (Day 65).** Hackathon Friday! The brief this week was to make a React app from scratch that interacted with an API in some way. We could choose the API and make whatever design choices we wanted, but the brief emphasised following the design processes and project flows we've been using and learning about, and making sure to keep good documentation of the work we did and why we did it.
+
+For our project, we decided to make a QR code app, which takes in user input as a variable and returns a QR code generated by an API associated with whatever variable the user inputted. It was important to us to get an MVP up and running before anything else, so after we'd done our ideas jamboard, wireframes, and written up some plans and stretch goals, we made sure we had the base-level of the project coded by the end of the morning, before reviewing our progress and deciding on a more specific direction then. We didn't get all our stretch goals completed, but we got some good practice in at organising a project and rethinking our direction in response to roadblocks or new factors. I enjoyed the day, and it was nice to get some practice in at a small version of what we're going to be doing next week.
+
+I had a meeting with my enablement coach in the afternoon, which was really helpful: it's nice to be able to check-in on your progress with someone outside of yourself, and to get a barometer on how you're doing and where you've come from. I also had my usual weekly mentor meeting after class, which was great as always. My mentor's swapping teams at his workplace next week to something that sounds very impressive and agonisingly complicated to work on. It's going to be really cool to hear about it over the next couple of weeks! Really exciting stuff!
+
+**Saturday (Day 66).** Got started on the recap task for the weekend, which was to do some self-directed revision and learning before project week begins. Honestly, I'm a bit apprehensive about project week – I think nerves are normal! But I will say that one nice thing is, on reflection, I don't think there's anything we've covered on the course that I'd be utterly unable to get to grips with if it was needed in a fullstack project. I spent some time going over my notes and workshop code for the past two weeks of React, and carried on working on the toDoList W7 Hackathon redo that I've been working on. Also had a breakthrough on what exactly useState is trying to achieve, so that was great. Hoping similar epiphanies continue to cement.
+
+**Sunday (Day 67).** Carried on working on the toDoList project and got all my technical MVP goals accomplished! Feel like I've really deepened my understanding, even if I'm not totally all the way there. Got a couple of things on in the afternoon, so wanted to at least make sure this diary was written up, and then I'm just going to do what I can before my other appointments kick in. And then, I'm going to relax! Anticipating a busy week next week!
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** Sometimes, it really does take time, practice, and doing things easy before you do them 'normal' or hard to grow your understanding of a topic. And that's fine! One thing my pair programmer this week was great at was reaching out to ask for help too, which I think is definitely a growth area for me, so that was a good learning opportunity. Another thing that was an important feature of this week for me outside of just coding was building community, especially with other people in tech spaces from non-traditional backgrounds. Having those kinds of connections with other people can really make a difference, and even though it can be a little daunting reaching out sometimes, I'm really energised to continue developing in that area.
 
 <br />
 
