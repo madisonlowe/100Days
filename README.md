@@ -422,33 +422,61 @@ I had a meeting with my enablement coach in the afternoon, which was really help
 
 <br />
 
-# Week Nine - Upcoming!
+# Week Nine
 
-**Week summary.**
+**Week summary.** This week was my ninth week at the School of Code bootcamp, and I also completed days sixty-eight through seventy-four of the _#100DaysOfCode_ challenge. This week was the mid-course project week! We teamed up in groups of four and five to build MVPs of full-stack applications, which we then demoed live for industry professionals on Friday for some feedback. It was a great chance to put everything that we've learnt so far into practice, and I had a lot of fun developing software with [Nafiso](https://github.com/Udecunup5), [Ismail](https://github.com/Ismailali99?tab=overview&from=2022-05-01&to=2022-05-31) and [Sam](https://github.com/samsonhumber)!
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 68).**
+**Monday (Day 68).** First day of project week!
 
-**Tuesday (Day 69).**
+We started the day bright and early by getting our brief off of Chris – to create an MVP of a full-stack application, that could help improve the lives of bootcampers – and got started right away. Our team decided not to code on day one, but to devote the day to ideation and design. We spent some time drawing up a team manifesto on how we'd prioritise work, make decisions and settle disagreements – just in case – and talking through how we wanted to structure our working day and week as a whole. We then spent some time coming up with ideas for what we wanted to build, and drawing up user personas, journeys and maps to try and refine down our concept.
 
-**Wednesday (Day 70).**
+In the end, the idea we voted on was to build a yearbook app, which would hold current and ex-bootcamper contact and biography information, whether they were open to things like mentoring, networking, and team projects, and should be filterable to find people from the bootcamp who shared similar interests to you.
 
-**Thursday (Day 71).**
+After we agreed on that idea, we got working on low and high-fidelity wireframes and spent the rest of the afternoon focusing on UI and design. Our team put together some colour swatches which I tested and edited for accessibility, and our final wireframe can be seen on this [Figma live preview](https://www.figma.com/proto/x24VtV2v5KdFi7KAXZhvsH/room21-design?node-id=34%3A67&scaling=scale-down&page-id=0%3A1&starting-point-node-id=34%3A67). I also started up a Notion page for our documentation and records.
 
-**Friday (Day 72).**
+**Tuesday (Day 69).** For Tuesday, we decided the goal for EOD was to have built the static MVP for the front and back-end of our project.
 
-**Saturday (Day 73).**
+The team put together a Trello to keep track of our todos and tickets, and we finalised a component tree and data flow diagram that Sam really helpfully had put together for us as a first draft. It really helped to have those structural guides in place, so that we could make sure we were aligned on our technical directions while branching off and doing different things. After we'd made sure we were all on the same page, we got going!
 
-**Sunday (Day 74).**
+Me and Nafiso worked on the front-end React app, putting together our components, shell fetch requests and CSS and front-end test files, and Ismail and Sam worked on putting together a Heroku postgreSQL database and building an Express server and API. We built some static data arrays in the front-end to work with and test our components on while Ismail and Sam were putting together the back-end. Me and Nafiso pair programmed the main `Biography` component together, as that was the core function of the front-end and we wanted to make sure that it had had two pairs of eyes on it to make it the best we could. After that, we created our own separate branches, and put together our other components, reviewing PRs and merging as we went.
+
+By the time the whole team came back together at the end of the day, we'd gotten all of our goals for the day completed, and were ready to add dynamism to the build on Wednesday!
+
+**Wednesday (Day 70).** Wednesday was all about linking everything together. We switched up the teams so everyone got the chance to work on different things, and so while Nafiso and Ismail tackled some of the remaining work and fixes needed on the back-end, me and Sam got the front hooked up to our API. There were a couple of clunky bits, but there was something so exciting about seeing the first successful .json come through from our fetch request to the back-end in a console.log. We've built APIs and front-ends and small apps before, but it was just really special to see this project that we'd designed as a team start working as a dynamic whole. Two months ago, we didn't even know what APIs were! It was a really great moment.
+
+After that, we had a team meeting to decide what move we wanted to make next. We'd put a hard stop on coding time at Thursday midday: we wanted a good couple of hours to clean up and create our presentation for Friday afternoon, which left us with limited time to carry on working on the actual core code. We debated for a while about whether we should use the remaining couple of hours to implement React Router and add some shells for additional pages that were in the stretch goals of our MVP plan, or whether we wanted to really clean up what we'd done, and focus on testing.
+
+In the end, we decided to pursue more rigorous testing. We put some unit and integration tests in place on the front and back, checking our core components and functionality – the shape of the data we were sending and receiving, and how our `Biography` component was mapping onto the page – and we also ran a Lighthouse report to check for any accessibility issues with our app. We started with a pretty high score, but after a couple of edits by Nafiso and Ismail, we managed to get our accessibility score up to 100, which was great.
+
+**Thursday (Day 71).** Final touches! I had a finicky bug I wanted to fix on a front-end component, and there were a few finishing touches the team wanted to put on different things, so we all took two hours on a group call to tidy up the last big bits and pieces. And then, we went through the front and back-end code as a team. This is so we could review how it all worked and to make sure we were happy with our knowledge of the app for the presentation and Q&A session on Friday, but also so that we could check for any typos, syntax errors, and make some final team decisions on last unfinished small bits.
+
+Then, once we were all happy with how the code was looking, we took a break for dinner, and worked on our presentation in the afternoon! The week went by so fast, but when we sat down to put the presentation together reflecting on what we'd done, it really was so much work. Some things we'd even forgotten about having done. Thursday was really a great chance to review how far we'd come, and to practice presenting ourselves and our work to others, and curating the most important parts of the journey that we wanted to communicate. We got most of the work done and got one or two practice runs through the presentation in, and then called it a day.
+
+**Friday (Day 72).** Presentation day!
+
+Very nervous, but very, very excited! We had the morning to get a bit of practice in, had a break at dinner, and then we were introduced to the guest judges afterwards, who were senior developers and engineers from a variety of our industry partners. A few familiar faces and many not, but all really gracious to have donated their time to come and give us some valuable feedback.
+
+And then it was time! We had about an hour before our slot, so the team chatted and tried to relax a little in our Zoom room to distract from the nerves. But then, it was presentation time, and as soon as it had begun, it was over! The judges asked us a few questions and gave us some feedback, and we'll be getting more in-depth feedback over the next few weeks, passed on through the coches. Overall, though, really enjoyed the experience! Thanks especially to our coach Hamza for MC'ing us and settling some of our nerves before and after the presentation itself, as well as to Ruth from TravelPerk, and Jordan and Ryan from Experian for their time!
+
+We debriefed as a team afterwards and then took a break, before coming back together for the closing comments, and some feedback from Chris too. Then, we finished the day early. There was an optional bootcamper social on, but honestly, I needed the rest more. So! I took a quick lie down, got back up for my usual mentor meeting – great and useful as always, and also just a tiny, little bit funny to hear that my mentor was having a similarly manic week in his new role, just much higher up the programming foodchain – then! Well-deserved Sims and pizza were the evening's plans!
+
+**Saturday (Day 73).** Didn't do anything too heavy! Got started on some design work for remaking my portfolio in React, and started putting together a React Router for the site. Taking it easy after a long week, though. Listened back one of our older mindset lectures and had a cheeky bubble bath.
+
+**Sunday (Day 74).** Did a bit of reading of a few resources my mentor sent me, eyeballed the portfolio code again, and typed up this! Again, still trying to relax before Monday kicks off again, so nothing major honestly.
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** Honestly, I'm still a bit frazzled from the whole week! I don't know if I can fully verbalise everything I learned this week, or even if it's all sunk in yet. I think there's just a really big value to having been able to practice all the things we've been learning as a four-person team, and to see how all those different moving parts come together. It's been a really great illuminator of some of my weaknesses, but also of my strengths, and I can't wait to build more things with more people, and to carry on growing and improving.
+
+It was also quite funny to me that my unnecessarily strong devotion to note-taking and file organising came in very handy this week – can never have too much accessible, clear documentation for your projects! As silly as it sounds, I'm very excited to put some new project management and documentation practices into action on the next project.
+
+I think a big thread through the week for me has been one of gratefulness, too. I think about something Kyle said to us on and off a lot, that all programming problems are people problems, and people are at the heart of everything we're trying to do. Hugely greatful for everyone at SoC who helped me get to this point, to my team for what we managed to get done this week, and to our coaches, my mentor, and everyone along the way helping us out on the journey.
 
 <br />
 
