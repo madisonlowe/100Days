@@ -424,7 +424,7 @@ I had a meeting with my enablement coach in the afternoon, which was really help
 
 # Week Nine
 
-**Week summary.** This week was my ninth week at the School of Code bootcamp, and I also completed days sixty-eight through seventy-four of the _#100DaysOfCode_ challenge. This week was the mid-course project week! We teamed up in groups of four and five to build MVPs of full-stack applications, which we then demoed live for industry professionals on Friday for some feedback. It was a great chance to put everything that we've learnt so far into practice, and I had a lot of fun developing software with [Nafiso](https://github.com/Udecunup5), [Ismail](https://github.com/Ismailali99?tab=overview&from=2022-05-01&to=2022-05-31) and [Sam](https://github.com/samsonhumber)!
+**Week summary.** This week was my ninth week at the School of Code bootcamp, and I also completed days sixty-eight through seventy-four of the _#100DaysOfCode_ challenge. This week was the mid-course project week! We teamed up in groups of four and five to build MVPs of full-stack applications, which we then demoed live for industry professionals on Friday for some feedback. It was a great chance to put everything that we've learnt so far into practice, and I had a lot of fun developing software with [Nafiso](https://github.com/nafisoaden97), [Ismail](https://github.com/Ismailali99) and [Sam](https://github.com/samsonhumber)!
 
 <details>
 <summary>Monday – Sunday</summary>
@@ -480,33 +480,45 @@ I think a big thread through the week for me has been one of gratefulness, too. 
 
 <br />
 
-# Week Ten - Upcoming!
+# Week Ten
 
-**Week summary.**
+**Week summary.** This week was my tenth week at the School of Code bootcamp, and I also completed days seventy-five through eighty-one of the _#100DaysOfCode_ challenge. This week, our focus was on looking retrospectively over how project week went, what could be improved, and how we could move forward with the projects, as well as what we all learned and took away from the experience. We also added increased testing and some documentation to the projects. The second part of the week was focused on learning more about auth0 and how to build in user authentication and authorisation on the front and back-end.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 75).**
+**Monday (Day 75).** Back in the dream team! Today, we got back into our project week teams and got started on bigger retrospectives of the week. Then, we spent some time doing code reviews of our own code and of another team's, before meeting back up at the end of the day to give each other group feedback on how the reviews had gone and to ask questions.
 
-**Tuesday (Day 76).**
+It was really useful to be able to look back, both at our project, and at another project in whole. I found it was an exercise that was very helpful in solidifying why you might make certain technical or project management choices over others, and in finding out what choices make your projects and code more accessible to others.
 
-**Wednesday (Day 77).**
+**Tuesday (Day 76).** A bit of a long day, so not much to write right now, as it's currently late!
 
-**Thursday (Day 78).**
+Got in some Codewars – must've woken up on the right side of the bed, because I managed to get through three very quickly and without errors, which made ranking up very exciting – and then we started learning a bit more about documentation. Then, we spent most of the day writing tests and docs for our project week app.
 
-**Friday (Day 79).**
+**Wednesday (Day 77).** Did some more docs work today, cleaning them up – my former (and still current) life as a proofreader coming in useful – and got some more Cypress and Jest testing set-up on our front-end. Also, edited some of our existing unit tests to be a little more semantic and useful, and highlighted a few weaknesses in the code through doing our tests that should be addressed later on. Then, we met up with the same team as we spoke to on Monday, to compare code and edits over the past few days, to see what we could change, and what we’d all learned.
 
-**Saturday (Day 80).**
+It was honestly a really useful exercise, and it was nice to get a bit more practice in working on the testing side of things. Sam and Ismail also managed to find out how to abstract hooks into their own folder, so that’s cool! Not eyeballed it yet to see how it works, but going to have a proper look later on.
 
-**Sunday (Day 81).**
+**Thursday (Day 78).** Last mindset with Joe today! Also, we had a talk from Code Creative, whose video got me to follow SoC and eventually apply and get in, so it was super cool to hear from him about his career, and how to advance from non-professional to professional programming. Then, we met our week ten partners - who is someone I've wanted to work with for ages, and tragically we only get to work together for two days, but such is life! - and we got started on what we’re doing this week, which is learning how to use authenticators and authorisation code.
+
+A bit tricky, to be honest! Got it working, and understand generally why, but I'm going to need to read the docs and experiment more to understand exactly what's going on in the details. Excited to carry on working with it during tomorrow's auth-a-thon.
+
+**Friday (Day 79).** Get it a little more today! We got all the bits moving with auth0 on front and back, and then we even managed to connect them, which took us a while but was very, very exciting when it all came together.
+
+I also had an enablement coach meeting today, where we talked about things to start working on to get ready for the end of the course. One of the partnerships team dropped in too, to tell me about a really cool event that SoC is putting together in August, which I'll hopefully be able to attend!
+
+As usual, also had my mentor meeting after everything wrapped up on Friday, and got some really helpful insight into hiring and interview processes and how projects are managed and made on the day-to-day.
+
+**Saturday (Day 80).** Recap task this week is more focused on self-directed learning, addressing things we've been learning about during this week. So, I decided to focus on cleaning up my portfolio and GitHub by adding documentation to projects, and maybe trying to get another project or two into a decent state. Getting more proper practice in with React Router.
+
+**Sunday (Day 81).** More of the same as yesterday!
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** Having the chance this week to look back on the project was really useful, and getting the chance to work on something for more than one week let us dig in a little further than usual in a productive way. The weeks seem to be going so fast now – only two more weeks of learning time, and then it's the final project – I almost can't believe it. I was talking to my enablement coach about it earlier this week, and while it's a little intimidating to be two-thirds of the way through, I'm so excited to carry on going and learn more and more, and to be able to do more things. Like finally getting out of the tutorial zone in a video game: there are bigger, scarier monsters, but there's also so much more to find, and so many more things you can do and become.
 
 <br />
 
