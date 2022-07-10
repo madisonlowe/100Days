@@ -522,33 +522,39 @@ As usual, also had my mentor meeting after everything wrapped up on Friday, and 
 
 <br />
 
-# Week Eleven - Upcoming!
+# Week Eleven
 
-**Week summary.**
+**Week summary.** This week was my eleventh week at the School of Code bootcamp, and I also completed days eighty-two through eighty-seven of the _#100DaysOfCode_ challenge. This week, our focus was on learning more about deployment, and getting ready to start working on the recruitment, job-hunting and post-graduation sector of the course.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 82).**
+**Monday (Day 82).** This week's focus is going to be mostly on deployment, I think. As such, today we learned about deploying front-ends, and started practicing that by deploying a SPA onto Netlify. It went pretty seamlessly! Got a couple of hours in fixing some bugs on some side projects. Have a nightmare CSS problem on my portfolio, but I think I know how to fix it, so I'll have a go tomorrow.
 
-**Tuesday (Day 83).**
+**Tuesday (Day 83).** Got a load of work done deploying the front and back-ends of an app today, on Netlify and Heroku respectively. Was kind of fiddly, but got it all working. Also figured out yesterday’s CSS bug, though made a new one in the process, but it is what it is. Very tired and feeling ill, so going to tap out of this diary early and rest.
 
-**Wednesday (Day 84).**
+**Wednesday (Day 84).** Shifted gears a bit today. In the morning, we did a research task into context in React. Our workshop was to turn what we learned into a tutorial, so me and my pair programmer wrote an article.
 
-**Thursday (Day 85).**
+In the afternoon, we learned about how to use custom hooks in React - which was quite useful, as I’d asked my mentor about it before and tried to figure it out on my own, but hadn’t got too far yet on it. Managed to get all the base tasks of the workshop working, and read the docs on local storage for one of them, so being exposed to new concepts.
 
-**Friday (Day 86).**
+After class, put in a couple hours cleaning up some code and adding in some more structure on side projects.
 
-**Saturday (Day 87).**
+**Thursday (Day 85).** Today, we practiced creating our ten second introductions with our partners. Then, Couchbase came in to do a half-day demo on their product and how to use it, and we did a competition and had to try and finish their code in a certain time frame.
 
-**Sunday (Day 88).**
+I got most of the code working before class ended, but was missing a few small key details. Worked on it and banged my head against the docs a bit after class wrapped, but sometimes it's one of those days. Maybe next time!
+
+**Friday (Day 86).** AWS Hackathon today, where our challenge was to deploy a full-stack app with AWS Amplify and then get through a few extra bonus steps. Me and my partner had a very chaotic experience of this hackathon due to technical failures on both our ends, but I think we learned a lot from just having to troubleshoot and fix problems, even if we didn't build all that much comparatively. We had some really useful discussions with other teams at the end of the day about how everyone had experienced the day. Then, I had my mentor meeting after we wrapped, where it was nice to get some insight into alternative technologies to the ones we'd been using this week.
+
+**Saturday.** No code today, attended a family wedding!
+
+**Sunday (Day 87).** Writing up this log, going to do some side project work and read a through articles and resources.
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** I haven't enjoyed deployment as much as other aspects of programming we've been learning over the past few weeks, but it's important to at least know a bit about where you're situated in a space, even if you don't have a great passion about it. It's been a week of small, steady and incremental progress - inside and outside of the things we've been learning on the bootcamp - which has been a productive experience. It was also interesting to look back on where we started, so that we can look forward towards what life might be like in a few months post-course. I can't believe that next week is our last week of taught learning before the final project. It feels like we've been at SoC for so long, though simultaneously, time has flown. Very excited for what's next! And also a little bittersweet that there's not so long left now.
 
 <br />
 
@@ -560,19 +566,19 @@ As usual, also had my mentor meeting after everything wrapped up on Friday, and 
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 89).**
+**Monday (Day 86).**
 
-**Tuesday (Day 90).**
+**Tuesday (Day 89).**
 
-**Wednesday (Day 91).**
+**Wednesday (Day 90).**
 
-**Thursday (Day 92).**
+**Thursday (Day 91).**
 
-**Friday (Day 93).**
+**Friday (Day 92).**
 
-**Saturday (Day 94).**
+**Saturday (Day 93).**
 
-**Sunday (Day 95).**
+**Sunday (Day 94).**
 
 </details>
 
