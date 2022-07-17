@@ -558,33 +558,73 @@ I got most of the code working before class ended, but was missing a few small k
 
 <br />
 
-# Week Twelve - Upcoming!
+# Week Twelve
 
-**Week summary.**
+**Week summary.** This week was my twelfth week at the School of Code bootcamp, and I also completed days eighty-six through ninety-four of the _#100DaysOfCode_ challenge. This week, things we learned and worked with included: component libraries and frameworks, including Chakra UI; a one-person hackathon to build or improve our portfolios; learning a little more about the technicalities of JavaScript as a language; learning about TypeScript, and getting to use it in a couple of different workshops and a hackathon project.
 
 <details>
 <summary>Monday – Sunday</summary>
 <br />
 
-**Monday (Day 86).**
+**Monday (Day 86).** Last Monday before project month today!
 
-**Tuesday (Day 89).**
+We swapped partners today, before having a great talk from an ex-bootcamper - Valerio Cipolla - about how to approach the final weeks, relaxing and keeping yourself healthy (physically and mentally), and what happens immediately after the bootcamp. It was really useful to hear his feedback, especially as someone who also - from the sounds of it - worked a bit too hard. Going to try and take some of his reflections on board before next week.
 
-**Wednesday (Day 90).**
+After that, we got some reading in on component libraries and frameworks, and then me and my partner experimented with Chakra UI by building a small SPA. Then, we split into groups to talk about the different libraries we’d all used, and to compare how they feel and work.
 
-**Thursday (Day 91).**
+Got a splitting headache and it’s very, very hot in the UK today, so I’m not my best writing self. Valerio’s advice was especially useful though, and I wrote everything he said down, so I’m going to reflect on that later.
 
-**Friday (Day 92).**
+Also, wrote my first comment on a LinkedIn post today, so we’re making progress getting more comfortable with networking!
 
-**Saturday (Day 93).**
+**Tuesday (Day 89).** Today, we had a talk from Dan Newns at Jump24 about agency culture in tech and how he’s been trying to change it within his company. Then, we were given all the rest of the day to ourselves for a mini self-hackathon, where we could work on our portfolio websites.
 
-**Sunday (Day 94).**
+Which was super useful! I’ve been working on mine a lot on the side, so it was nice to get the chance to iron out some bugs. It’s not perfect, but I got some nice visuals added to it and it was nice to have some time to look over it. One of my friends on the bootcamp also showed me her lava lamp CSS background that she'd built, which was honestly so cool, and we gathered in small groups to talk about our progress at the end of the day.
+
+Also, had a go rebuilding my site in Next.js to see if I could sort out some router problems I was having. It’s not complete yet, but Next.js seems pretty intuitive, so going to have another crack later.
+
+**Wednesday (Day 90).** Today, we did some Codewars and learned a little bit more about some weird quirks of JavaScript, such as how its operators and operands work and are read, associativity, dynamic and static and weak and strongly typed languages, and so on. We used this new knowledge as a basis to get started on Typescript, which we’re going to be working on for the next few days!
+
+It was kind of fun to look into working with JavaScript in a new way, that maybe is more linguistically similar to other languages. I’ve been thinking about branching out into another language after the course, and it’s been fun to experiment with more theoretical aspects and knowledge.
+
+Tomorrow, we’re continuing our basic Typescript workshop, before doing some work on Typescript in React.
+
+**Thursday (Day 91).** Today, we did some Codewars.
+
+Then, Chris came in to talk to us all about getting employment ready, and using LinkedIn and other softwares and services to prep for roles.
+
+Then, we did some practice technical interviews! I was pretty nervous about this, as I tend to need (or feel like I need) more time on the mathier kind of problems you see on platforms like Codewars. No sense in being scared of things indefinitely, though, so I volunteered to go first, to confront my nerves. In the end, I got pretty close to finishing the code, and my feedback was that I was good at communicating my thoughts and intentions while coding, and my planning and logic were sound, which if nothing else, did help alleviate some of my crash-and-burn catastrophising about technical interviews.
+
+After that, we worked with TypeScript in React for the rest of the day. Thinking about how close we are to the end of our learning time on at School of Code - only tomorrow left, really - and how much there is to reflect on. Honestly, though, I'm a bit too tired to reflect! So maybe later in the week.
+
+**Friday (Day 92).** Last Hackathon Friday at the School of Code!
+
+Today, we built a weather app using TypeScript in React, using a weather API we were linked to by the coaches. There were two ways you could use the API: it could take in either city name parameters and would perform its own geolocating in order to return a weather forecast, but the forecast was not very detailed, and the automatic geo-locator was going to be deprecated eventually, so the code would need restructuring. Alternatively, the same API provider also had a separate geolocating API that you could then pass more specific information to the weather API from. It was a bit more complicated, structurally and state-wise, to do that, but it’s what our team decided to do to create additional longevity in the code.
+
+And it was a bit tricky at times! But we got our MVP finished and were really proud of the detail. My team this week was a lot of fun, and I feel like I learned a lot: a great final pair programming team before Project Month.
+
+Also had an enablement coach meeting today, which really did provide a great chance to look back on the course and reflect on what I’ve learned, and in particular what strengths I’ve uncovered or developed that can be carried forward into our teams on Monday. I’ve really appreciated the enablement coach meetings for how they let us get feedback on the learning journey and consider our growth and potential holistically.
+
+And, as usual for Fridays, had my mentor meeting at the end of the day. I’ve been a bit apprehensive about Project Month - as I suppose anyone would be! - but I got some really useful advice on how to conceptualise success in a project like this, at this stage in our journeys, as well as just general perspective in this week’s meeting. It is about doing, creating and building, but it’s also about having fun! Also picked up some really cool tips on how to start building robots, had some general tech chatter, and got to hear about how my mentor’s new job and side projects are going, which was really cool to hear about.
+
+But yeah! No recap task this week, except to look over things generally and revise, to rest, and to reflect, so I’m going to try and take it a little easier before things get manic from next week.
+
+**Saturday (Day 93).** Took most of today to relax, help my sister do some DIY in the garden, play video games, start building one of my family member's birthday presents, and otherwise be away from my laptop for the first time in a while! Put an hour in on Codewars in the evening, though, and read through a few technical articles.
+
+**Sunday (Day 94).** Last day before Project Month! Eek!
+
+Not sure what I'm going to get done today, but I think I'm going to work some more on the hackathon we did on Friday, to make the CSS a little bit less hideous, and then maybe just start up a few projects for fun that I can work on for the next few weekends. My mentor gave me a great tip this week, since we share in common that we are prone to overworking, that something that works for him is making sure he has non-work programming projects to work on in his free time. Then, he can still programme - which is a fun thing to do! - while also making sure he's not just working all hours of the week. I really want to make one of those CYOA command line games or something, so I think that might be what I start planning! Or something else! Who knows!
+
+Also, just went through the final mindset module from Joseph (Trodden) about identifying your personal core values, and the ways in which these can be a strength or a weakness, and how they interact with others on a team. My current values, in order, come out as: integrity, adventure, compassion, determination, and creativity. It was a really interesting exercise to find these out and narrow them down, which helped illuminate some of the drivers behind some of my choices and behaviours. I've really enjoyed and appreciated Joe's mindset sessions through the course, and we've learned a lot from them.
 
 </details>
 
 <br />
 
-**Takeaways.**
+**Takeaways.** Really enjoyed getting to use TypeScript this week! Don't think I've mentioned that anywhere in the rest of my learning log for W12, but it's actually been a lot of fun experimenting with a superset of JavaScript that has a few different language features that you have to work with and around. I'm quite excited to start learning another language once the course ends, and this introduction really helped bolster that feeling.
+
+Also, as an aside, not sure what format my learning diary is going to take from Monday onwards, but I'm going to try and keep one. If I don't update this weekly for a while going forward, though, I'll update the top of the document, or otherwise update this at the end of the course in one chunk.
+
+If anyone ever does read this far! Thank you so much for your time! And if by chance any future or potential bootcamper is reading this, I hope at least some of my reflections and experiences - or even just some details of the course timeline and workload - have been useful to you!
 
 # Weeks Thirteen – Seventeen - Upcoming!
 
